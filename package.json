@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "delete:docs": "del docs && mkdir docs",
-    "copy:dist": "cp -r ./dist/gifts-app/* ./docs"
+    "copy:dist": "cp -r ./dist/country-app/* ./docs"
   },
   "private": true,
   "dependencies": {
